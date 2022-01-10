@@ -461,7 +461,7 @@
 
 ## Компонентная модель
 
-![alt text](ComponentDiagramSoiree.jpg)
+![component diagram](ComponentDiagramSoiree.jpg)
 
 ## Референсные архитектуры
 
@@ -469,3 +469,6 @@
     * Причиной выбора является отсутствие большого количества модулей, которое можно было бы выделить в отдельные микросервисы
 * Мобильное приложение: **MVVM (Model-View-ViewModel)**
 * Веб-приложение: **MVC (Model-View-Controller)**
+
+## Реализация в облаке Microsoft Azure
+![azure](docker-infrastructure-monolithic-application.png)
