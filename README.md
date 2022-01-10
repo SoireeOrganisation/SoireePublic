@@ -462,7 +462,7 @@
 
 ## Компонентная модель
 
-![alt text](SoireeDiagram.png)
+![alt text](ComponentDiagramSoiree.jpg)
 
 ## Референсные архитектуры
 
