@@ -498,4 +498,5 @@
 * Веб-приложение: **MVC (Model-View-Controller)**
 
 ## Реализация в облаке Microsoft Azure
-![azure](docker-infrastructure-monolithic-application.png)
+![azure](docker-infrastructure-monolithic-application.png) <br />
+[Источник](https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/architect-microservice-container-applications/containerize-monolithic-applications)
